@@ -1842,6 +1842,7 @@ Output the report content directly, no extra commentary.
 - 禁止输出代码块
 - emoji 仅在标题处少量使用（每个标题最多1个）
 - {workflow_hint}
+- 通俗化写作：正文用大白话面向非金融背景读者，先给结论和“明天该怎么做”，再解释原因；术语出现时附一句白话解释；不要堆砌数据
 - 不要重复列出已由系统注入的表格数据；正文负责解释表格背后的含义
 {data_boundary_requirement}
 
